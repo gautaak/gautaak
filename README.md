@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Full Stack Developer and contributing to frontend/backend for building web & mobile applications.
 - 🌍 I'm based in New Delhi, India.
 - ⚡ My Blog [theunifiedsolution.in](https://www.theunifiedsolution.in/).
 - 📫 How to reach me: [theunifiedsolution@gmail.com](mailto:theunifiedsolution@gmail.com)
